@@ -75,5 +75,5 @@ def total_even_pairs(src)
     row_index += 1 
     end
   end
-  toal = even_number_array.sum
+  total = even_number_array.sum
 end
